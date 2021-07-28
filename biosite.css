@@ -23,8 +23,7 @@ header { font-family: Georgia,"Times New Roman", serif;
 }
 header h1 { padding-left: 220px;
           padding-top: 40px;
-		  margin: 0; 
-		 text-shadow: 3px 3px #998d45;
+		  margin: 0;		
 		 font-size: 4em;
  }
 nav {  background-color: #99bab2; 
